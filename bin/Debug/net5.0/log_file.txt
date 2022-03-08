@@ -1,0 +1,32 @@
+2022-02-28 13:00:24.9883|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:00:25.0648|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:01:23.1444|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:01:23.2212|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:02:44.4931|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:02:44.5713|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:04:12.3059|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:04:12.3842|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:06:21.5300|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:07:00.0628|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:07:00.1697|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-02-28 13:07:00.1733|INFO|MediaLibrary.FileScrubber|File scrub ended
+2022-02-28 13:07:00.1745|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:07:00.1745|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:09:19.1859|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:09:19.2933|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-02-28 13:09:19.2956|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:09:19.2956|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:13:05.8544|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:13:05.9642|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-02-28 13:13:05.9939|INFO|MediaLibrary.FileScrubber|File scrub ended
+2022-02-28 13:13:05.9953|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:13:05.9953|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:14:27.0852|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:14:27.1920|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-02-28 13:14:27.1944|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:14:27.1951|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:15:07.2388|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:15:07.3462|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-02-28 13:15:07.3485|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:15:07.3983|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2022-02-28 13:15:07.4092|INFO|MediaLibrary.Program|Program ended
