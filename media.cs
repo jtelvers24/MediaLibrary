@@ -6,12 +6,6 @@ namespace MediaLibrary
     public abstract class Media
     {
 
-<<<<<<< HEAD
-        //this is a new test
-
-=======
-        //this is a test
->>>>>>> 4365cb0efccb8a8134a42ce90e6ec6756c4ca979
         
         // public properties
         public UInt64 mediaId { get; set; }
